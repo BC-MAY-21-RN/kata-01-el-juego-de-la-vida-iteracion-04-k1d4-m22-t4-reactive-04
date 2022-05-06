@@ -44,6 +44,7 @@ describe("Pruebas a la clase Matrix", () => {
  git commit -m "first commit.
 >
 >
-Co-authored-by: Nicolasjrz nicolasjrz.dev@gmail.com
+
+
 Co-authored-by:RafaelEduardoRodriguez rerodriguezmun@unal.edu.co"
 */

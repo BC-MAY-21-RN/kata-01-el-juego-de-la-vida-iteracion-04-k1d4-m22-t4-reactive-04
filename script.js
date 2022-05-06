@@ -102,6 +102,5 @@ function nextGeneration(matrix){
      process.exit(0);
  });
 
-main();
 
 module.exports = {Matrix };
